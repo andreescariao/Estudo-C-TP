@@ -1,2 +1,2 @@
-# Estudo-C-
+# Estudo-C++
 Estudo da Linguagem de Programação C++.
